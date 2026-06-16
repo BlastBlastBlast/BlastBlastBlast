@@ -1,10 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+trust-first+software;Privacy+by+design%2C+not+by+accident;Protected+data%2C+not+surveillance)](https://github.com/BlastBlastBlast)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=Developer+and+project+manager+at+Trust+Here+AS;MSc+student+in+Digital+Economics+and+Leadership;Winner+of+the+MET+Prize+2025+for+SOAR;I+build+software%2C+custom+keyboards+and+cars)](https://github.com/BlastBlastBlast)
 
 </div>
 
-### Hi, I'm Lars Wien Tynes
+### Hi, I'm Lars Wien Tynes &nbsp;<img src="assets/norway-flag.svg" alt="Norway" width="30" valign="middle">
+
+Based in Oslo, Norway.
 
 I'm a developer and project manager at Trust Here AS. I build privacy-first software where people stay in control of their own data.
 
@@ -15,7 +17,6 @@ My path into software wasn't a straight line. I spent a decade in logistics, sal
 - **MSc, Digital Economics and Leadership (DIGØK)**, University of Oslo, 2025 to present
 - **BSc, Programming and Systems Architecture**, University of Oslo, 2023 to present. Winner of the MET Prize 2025 for best application, SOAR.
 - **BSc, Leadership and Service Strategy**, Markedshøyskolen (Kristiania), 2014 to 2017
-- **Sports Studies, specialization**, Bjerke VGS, 2009 to 2012
 
 #### Connect
 
