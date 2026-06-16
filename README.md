@@ -10,7 +10,7 @@ Based in Oslo, Norway.
 
 I'm a developer and project manager at Trust Here AS. I build privacy-first software where people stay in control of their own data.
 
-My path into software wasn't a straight line. I spent a decade in logistics, sales and team leadership. I built a B2C delivery service from the ground up and ran B2B logistics as a project lead. Then I paired all of that with proper study in programming and digital economics, and that mix of hands-on project management and technical depth is what brought me to Trust Here AS. Long term I want to keep combining the two, drive innovation and lead IT projects.
+My path into software wasn't a straight line. I first spent about a decade in logistics, sales and project management. I built a B2C delivery service from the ground up and ran both B2C and B2B logistics as a project lead. Then a friend and I found ourselves in a very early midlife crisis and ended up studying programming, and later digital economics and leadership. And that is what brought me to Trust Here. Long term I want to drive innovation and lead IT projects.
 
 #### Education
 
@@ -19,7 +19,7 @@ My path into software wasn't a straight line. I spent a decade in logistics, sal
     <td width="160" valign="middle" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/uio-white.svg">
-        <img src="assets/uio-black.svg" alt="University of Oslo" height="70">
+        <img src="assets/uio-black.svg" alt="University of Oslo" height="80">
       </picture>
     </td>
     <td valign="middle">
