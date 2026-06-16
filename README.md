@@ -14,20 +14,31 @@ My path into software wasn't a straight line. I spent a decade in logistics, sal
 
 #### Education
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/uio-white.svg">
-  <img src="assets/uio-black.svg" alt="University of Oslo" height="58">
-</picture>
-
-- **MSc, Digital Economics and Leadership (DIGØK)**, 2025 to present
-- **BSc, Programming and Systems Architecture**, 2023 to present. Winner of the MET Prize 2025 for best application, SOAR.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/kristiania-white.svg">
-  <img src="assets/kristiania-black.svg" alt="Kristiania University College" height="30">
-</picture>
-
-- **BSc, Leadership and Service Strategy**, 2014 to 2017
+<table>
+  <tr>
+    <td width="160" valign="middle" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/uio-white.svg">
+        <img src="assets/uio-black.svg" alt="University of Oslo" height="70">
+      </picture>
+    </td>
+    <td valign="middle">
+      <strong>MSc, Digital Economics and Leadership (DIGØK)</strong>, 2025 to present<br>
+      <strong>BSc, Programming and Systems Architecture</strong>, 2023 to present. Winner of the MET Prize 2025 for best application, SOAR.
+    </td>
+  </tr>
+  <tr>
+    <td width="160" valign="middle" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/kristiania-white.svg">
+        <img src="assets/kristiania-black.svg" alt="Kristiania University College" height="36">
+      </picture>
+    </td>
+    <td valign="middle">
+      <strong>BSc, Leadership and Service Strategy</strong>, 2014 to 2017
+    </td>
+  </tr>
+</table>
 
 #### Connect
 
