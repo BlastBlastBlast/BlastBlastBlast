@@ -19,7 +19,7 @@ My path into software wasn't a straight line. I first spent about a decade in lo
     <td width="160" valign="middle" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/uio-white.svg">
-        <img src="assets/uio-black.svg" alt="University of Oslo" height="80">
+        <img src="assets/uio-black.svg" alt="University of Oslo" height="100">
       </picture>
     </td>
     <td valign="middle">
