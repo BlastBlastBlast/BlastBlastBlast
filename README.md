@@ -14,9 +14,20 @@ My path into software wasn't a straight line. I spent a decade in logistics, sal
 
 #### Education
 
-- **MSc, Digital Economics and Leadership (DIGØK)**, University of Oslo, 2025 to present
-- **BSc, Programming and Systems Architecture**, University of Oslo, 2023 to present. Winner of the MET Prize 2025 for best application, SOAR.
-- **BSc, Leadership and Service Strategy**, Markedshøyskolen (Kristiania), 2014 to 2017
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/uio-white.svg">
+  <img src="assets/uio-black.svg" alt="University of Oslo" height="58">
+</picture>
+
+- **MSc, Digital Economics and Leadership (DIGØK)**, 2025 to present
+- **BSc, Programming and Systems Architecture**, 2023 to present. Winner of the MET Prize 2025 for best application, SOAR.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/kristiania-white.svg">
+  <img src="assets/kristiania-black.svg" alt="Kristiania University College" height="30">
+</picture>
+
+- **BSc, Leadership and Service Strategy**, 2014 to 2017
 
 #### Connect
 
