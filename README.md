@@ -10,7 +10,7 @@ Based in Oslo, Norway.
 
 I'm a developer and project manager at Trust Here AS. What I actually do is a bit of everything. I'm not so much a full stack developer yet... more like a mini stack developer doing whatever needs to be done.
 
-My path into software wasn't a straight line. I first spent about a decade in logistics, sales and project management. I built a B2C delivery service from the ground up and ran both B2C and B2B logistics as a project lead. Then a friend and I found ourselves in a very early midlife crisis and ended up studying programming, and later digital economics and leadership. And that is what brought me to Trust Here. Long term I want to keep solving real problems, drive innovation and lead IT projects.
+My path into software wasn't a straight line. I first spent about a decade in logistics, sales and project management. I built a B2C delivery service from the ground up and ran both B2C and B2B logistics as a project lead. Dabbled in sales for some years. Then a friend and I found ourselves in a very early midlife crisis and ended up studying programming, and later digital economics and leadership. And that is what brought me to Trust Here. Long term I want to keep solving real problems, drive innovation and lead IT projects.
 
 #### Education
 
